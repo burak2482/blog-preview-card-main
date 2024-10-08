@@ -10,7 +10,7 @@ export default function Home() {
           <h3 class='bg-customYellow px-3 py-1 inline-block rounded font-customExtraBold font-bold text-sm'>Learning</h3>
           <h3 class='font-customNormal font-customSemiBold mt-3'>Published 21 Dec 2023</h3>
           <h1 class='text-customYellow font-customExtraBold font-bold text-2xl mt-2'>HTML & CSS foundations</h1>
-          <h2 class='text-xl mt-2'>These languages are the backbone of every website defining structure content and presentation.</h2>
+          <h2 class='text-xl mt-2'>These languages are the backbone of every website, defining structure, content and presentation.</h2>
         </div>
         <div class='flex items-center mt-5 px-2'>
           <Image src='./image-avatar.png' class='mr-3' alt='' width={50}  height={50}/>
